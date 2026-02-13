@@ -10,6 +10,7 @@ Technologies Used
 Frontend: HTML5, CSS3, Font Awesome Icons
 Backend: PHP (Sessions & simple logic)
 Design: Modern sidebar layout with grid cards and topbar profile dropdown
+
 LOGIN
 <img width="1478" height="712" alt="Capture" src="https://github.com/user-attachments/assets/3d02579a-fb6e-4c09-b573-fdb81d282d9d" />
 PROFILE
