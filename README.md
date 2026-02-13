@@ -1,4 +1,4 @@
-PHP Authentication & Dashboard System
+# PHP Authentication & Dashboard System
 
 A modern and secure PHP-based authentication system that includes user registration, login validation, session management, and a responsive user dashboard interface.
 
