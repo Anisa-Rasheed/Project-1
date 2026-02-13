@@ -11,5 +11,6 @@ Frontend: HTML5, CSS3, Font Awesome Icons
 Backend: PHP (Sessions & simple logic)
 Design: Modern sidebar layout with grid cards and topbar profile dropdown
 <img width="1478" height="712" alt="Capture" src="https://github.com/user-attachments/assets/3d02579a-fb6e-4c09-b573-fdb81d282d9d" />
-
+<img width="1592" height="751" alt="Capture2" src="https://github.com/user-attachments/assets/2f33aad5-50e1-4ce0-8ef7-3eb51d5213b7" />
+<img width="1590" height="759" alt="Capture3" src="https://github.com/user-attachments/assets/ac8e22d3-a738-4a17-9e45-7a12da3a7906" />
 
