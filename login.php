@@ -2,8 +2,6 @@
 include "config.php";
 
 $message = "";
-
-// Fixed Admin Credentials
 $fixed_username = "anisa";
 $fixed_password = "Anisa@123";
 
@@ -49,6 +47,7 @@ Authorized Access Only
 
 </body>
 </html>
+
 
 
 
