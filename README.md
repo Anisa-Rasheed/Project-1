@@ -70,11 +70,11 @@ Session management in PHP
 
 Modern UI/UX design for login systems
 
-LOGIN
+#LOGIN
 <img width="1478" height="712" alt="Capture" src="https://github.com/user-attachments/assets/3d02579a-fb6e-4c09-b573-fdb81d282d9d" />
-PROFILE
+#PROFILE
 <img width="1592" height="751" alt="Capture2" src="https://github.com/user-attachments/assets/2f33aad5-50e1-4ce0-8ef7-3eb51d5213b7" />
-DASHBOARD
+#DASHBOARD
 <img width="1587" height="771" alt="cap4" src="https://github.com/user-attachments/assets/1f5bd81e-7653-427e-8603-e496f5535e51" />
 
 
