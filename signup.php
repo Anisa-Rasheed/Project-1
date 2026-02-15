@@ -3,7 +3,7 @@ include "config.php";
 
 $message = "";
 
-// Fixed example signup data (simulated)
+
 if(isset($_POST['signup'])){
     $username = $_POST['username'];
     $password = $_POST['password'];
@@ -12,7 +12,6 @@ if(isset($_POST['signup'])){
     if($password !== $confirm){
         $message = "Passwords do not match!";
     } else {
-        // Simulated signup: you can later add database logic here
         $message = "Signup successful! Please login.";
         header("refresh:2; url=login.php");
     }
@@ -46,3 +45,4 @@ if(isset($_POST['signup'])){
 
 </body>
 </html>
+
