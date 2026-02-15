@@ -1,4 +1,3 @@
-/* ===== GLOBAL ===== */
 *{
     margin:0;
     padding:0;
@@ -11,7 +10,6 @@ body{
     color:white;
 }
 
-/* ===== SIDEBAR ===== */
 .sidebar{
     position:fixed;
     top:0;
@@ -51,7 +49,6 @@ body{
     border-left:4px solid #00c6ff;
 }
 
-/* ===== MAIN CONTENT ===== */
 .main{
     margin-left:240px;
     padding:40px;
@@ -68,7 +65,6 @@ body{
     font-weight:600;
 }
 
-/* ===== CARDS ===== */
 .card{
     background: rgba(255,255,255,0.1);
     padding:30px;
@@ -84,7 +80,7 @@ body{
     box-shadow:0 15px 35px rgba(0,0,0,0.5);
 }
 
-/* ===== DASHBOARD STATS ===== */
+
 .stats{
     display:flex;
     gap:20px;
@@ -112,7 +108,6 @@ body{
     margin-bottom:10px;
 }
 
-/* ===== BUTTON ===== */
 button{
     padding:12px 20px;
     border:none;
@@ -128,7 +123,6 @@ button:hover{
     background:#0072ff;
 }
 
-/* ===== LOGIN PAGE ===== */
 .login-container{
     height:100vh;
     display:flex;
@@ -183,7 +177,6 @@ input:focus{
     font-size:14px;
 }
 
-/* ===== RESPONSIVE ===== */
 @media(max-width:768px){
     .sidebar{
         width:200px;
@@ -198,6 +191,7 @@ input:focus{
         flex-direction:column;
     }
 }
+
 
 
 
